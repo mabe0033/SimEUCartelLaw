@@ -20,7 +20,7 @@
 #' print(aggResults(res))
 #' print(CorrStudy(params=Par, m=10000))
 #' print(CorrStudySplit(params=Par, m=10000))
-#' \dontrun{
+#' \donttest{
 #' RglPlot(LEgame(params=Par, m=10000))
 #' NoRglPlot(LEgame(params=Par, m=10000))
 #' }
